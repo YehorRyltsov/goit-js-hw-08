@@ -21,7 +21,6 @@ if (time_stop) {
       switch (error.name) {
         case 'RangeError':
           break;
-
         default:
           break;
       }
